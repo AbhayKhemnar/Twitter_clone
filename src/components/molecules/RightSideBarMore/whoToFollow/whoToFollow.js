@@ -17,13 +17,15 @@ const [profiles, setProfiles] = useState([
         img:avatar1,
         name:"Abhay",
         userId:"@Abhay7",
-        
+        isFollowing:false
     },
     {
         id:3,
         img:avatar3,
         name:"Manish",
         userId:"@manish3",
+        isFollowing:false
+
 
     },
     {
@@ -31,36 +33,42 @@ const [profiles, setProfiles] = useState([
         img:avatar1,
         name:"Sachin",
         userId:"@sachin22",
+        isFollowing:false
     },
     {
         id:5,
         img:avatar2,
         name:"Zakeer",
         userId:"@zakeer9",
+        isFollowing:false
     },
     {
         id:6,
         img:avatar3,
         name:"Ritik",
         userId:"@ritik12",
+        isFollowing:false
     },
     {
         id:7,
         img:avatar1,
         name:"Anoop",
         userId:"@anoop",
+        isFollowing:false
     },
     {
         id:8,
         img:avatar2,
         name:"Abhay",
         userId:"@Abhay7",
+        isFollowing:false
     },
     {
         id:9,
         img:avatar3,
         name:"Manish",
         userId:"@manish3",
+        isFollowing:false
 
     },
     {
@@ -68,12 +76,14 @@ const [profiles, setProfiles] = useState([
         img:avatar1,
         name:"Sachin",
         userId:"@sachin22",
+        isFollowing:false
     },
     {
         id:11,
         img:avatar2,
         name:"Zakeer",
         userId:"@zakeer9",
+        isFollowing:false
     }
 
   ]);

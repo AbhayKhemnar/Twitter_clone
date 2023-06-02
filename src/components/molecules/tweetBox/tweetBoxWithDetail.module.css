@@ -30,11 +30,13 @@
     color: rgb(24, 142, 189);
 }
 .caption{
-    margin-left: 10px;
+    width: 100%;
+    text-align: left;
+    padding-left: 12px;
 }
 .userId{
     font-family: monospace;
-    margin-left: 10px;
+     margin-left: 10px;
 }
 
 .imgeContainer{

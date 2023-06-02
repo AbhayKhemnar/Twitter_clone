@@ -18,7 +18,7 @@ function App() {
       <Route path="/createaccount" element={<CreateAccOfTwitter />} />
       <Route path="/home" element={<Home />} />
       <Route path="/dummyHome" element={<DummyHome />} />
-      <Route path="*" element={<Page404 />} />
+      <Route path="/*" element={<Page404 />} />
 
 
 
